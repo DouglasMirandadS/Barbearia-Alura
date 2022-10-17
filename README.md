@@ -48,28 +48,32 @@
                 <h3 class="main_title">Nosso estabelecimento</h3>
                 <p>Nosso estabelecimento está localizado no coração da cidade.</p>
 
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1828.5512250037677!2d-46.652955982772646!3d-23.564763696939057!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59541c6c79c3%3A0x36b90a85f0f8cb33!2sGrupo%20Alura!5e0!3m2!1spt-BR!2sbr!4v1665684542061!5m2!1spt-BR!2sbr" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
+                <div class="map-conteudo">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1828.5512250037677!2d-46.652955982772646!3d-23.564763696939057!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59541c6c79c3%3A0x36b90a85f0f8cb33!2sGrupo%20Alura!5e0!3m2!1spt-BR!2sbr!4v1665684542061!5m2!1spt-BR!2sbr" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div>
             </section>
 
             <!--Beneficios-->
             <section class="beneficios">
+                
                     <h3 class="main_title">Benefícios</h3>
 
-                <ul>
-                    <li class="itens">Atendimento ao Cliente</li>
-                    <li class="itens">Espaço diferenciado</li>
-                    <li class="itens">Localização</li>
-                    <li class="itens">Profissionais qualificados</li>
-                </ul>
-                <img src="C:\Users\User\Desktop\Curso Alura Premiere\Imagens\beneficios.jpg" class="imagembeneficios" alt="Cliente realizando manutenção na barba">
-
+                <div class="conteudo-beneficios">
+                        <ul class="lista-beneficios">
+                            <li class="itens">Atendimento ao Cliente</li>
+                            <li class="itens">Espaço diferenciado</li>
+                            <li class="itens">Localização</li>
+                            <li class="itens">Profissionais qualificados</li>
+                            <li class="itens">Pontualidade</li>
+                            <li class="itens">Limpeza</li>
+                        </ul><img src="C:\Users\User\Desktop\Curso Alura Premiere\Imagens\beneficios.jpg" class="imagem-beneficios">
+                </div>
                 <div class="video">
                     <iframe width="560" height="315" src="https://www.youtube.com/embed/wcVVXUV0YUY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
             </section>
         </main>
-        
+        <!--Rodape-->
         <footer>
             <img src="C:\Users\User\Desktop\Curso Alura Premiere\img\logo-branco.png">
             <p class="copyright">&copy; Copyright Barbearia Alura - 2019</p>
