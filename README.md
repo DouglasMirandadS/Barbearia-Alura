@@ -3,6 +3,7 @@
 <!DOCTYPE html>
 <html lang="pt-br">
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Barbearia Alura</title>
 
         <link rel="stylesheet" href="C:\Users\User\Desktop\Curso Alura Premiere\reset\reset.css">
@@ -69,7 +70,7 @@
                         </ul><img src="C:\Users\User\Desktop\Curso Alura Premiere\Imagens\beneficios.jpg" class="imagem-beneficios">
                 </div>
                 <div class="video">
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/wcVVXUV0YUY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe width="100%" height="315" src="https://www.youtube.com/embed/wcVVXUV0YUY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
             </section>
         </main>
